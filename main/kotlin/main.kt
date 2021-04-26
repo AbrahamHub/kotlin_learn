@@ -12,10 +12,8 @@ fun main(args: Array<String>) {
     val boolean = true
     var numeroLargo = 1000000000000000L
     val double : Double = 2.1557
-    val float : Float = 1.1
+    val float  = 1.1F
 
     val apellido = "Castañeda"
     println("$nombre $apellido")
-
-
 }
